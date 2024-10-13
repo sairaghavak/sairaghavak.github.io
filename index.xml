@@ -12,13 +12,23 @@
     
     <item>
       <title>About</title>
+      <link>http://sairaghavak.github.io/about-wip-draft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sairaghavak.github.io/about-wip-draft/</guid>
+      <description>My name is Sai Raghava Katepally. I am a Seasoned IT Professional with 14+ years of demonstrated experience in all phases of Software Engineering Life-Cycle. Hands-on experience in developing Software. Excellent Technical and People Skills. Experience in leading, mentoring, and manging engineering teams.
+Technical Skills  Expert: Uptil Java8 Proficient: Java11+, Docker, SQL, NoSQL, Architecture, Microservices Intermediate: GoLang, Python, TypeScript, NodeJs  Education    Degree University Duration      Bachelor of Technology(B.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
       <link>http://sairaghavak.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://sairaghavak.github.io/about/</guid>
       <description>My name is Sai Raghava Katepally. I am a Seasoned IT Professional with 14+ years of demonstrated experience in all phases of Software Engineering Life-Cycle. Hands-on experience in developing Software. Excellent Technical and People Skills. Experience in leading, mentoring, and manging engineering teams.
-Technical Skills:
- Expert: Uptil Java8 Proficient: Java11+, Docker, SQL, NoSQL, Architecture, Microservices Intermediate: GoLang, Python, TypeScript, NodeJs  Please reach out for any interesting and challenging opportunities: sairaghavak@outlook.</description>
+Technical Skills  Expert: Uptil Java8 Proficient: Java11+, Docker, SQL, NoSQL, Architecture, Microservices Intermediate: GoLang, Python, TypeScript, NodeJs  Email: sairaghavak@outlook.com
+Please reach out for any interesting and challenging opportunities</description>
     </item>
     
   </channel>
