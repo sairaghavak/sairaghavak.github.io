@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://sairaghavak.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://sairaghavak.github.io/about-wip-draft/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://sairaghavak.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://sairaghavak.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://sairaghavak.github.io/work/</loc>
+  </url><url>
     <loc>http://sairaghavak.github.io/tags/</loc>
   </url>
-  
 </urlset>

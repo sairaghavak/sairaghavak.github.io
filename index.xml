@@ -4,31 +4,29 @@
     <title></title>
     <link>http://sairaghavak.github.io/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="http://sairaghavak.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://sairaghavak.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://sairaghavak.github.io/about-wip-draft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://sairaghavak.github.io/about-wip-draft/</guid>
-      <description>My name is Sai Raghava Katepally. I am a Seasoned IT Professional with 14+ years of demonstrated experience in all phases of Software Engineering Life-Cycle. Hands-on experience in developing Software. Excellent Technical and People Skills. Experience in leading, mentoring, and manging engineering teams.
-Technical Skills  Expert: Uptil Java8 Proficient: Java11+, Docker, SQL, NoSQL, Architecture, Microservices Intermediate: GoLang, Python, TypeScript, NodeJs  Education    Degree University Duration      Bachelor of Technology(B.</description>
+      <description>My name is Sai Raghava Katepally. I am a Seasoned IT Professional with 14+ years of demonstrated experience in all phases of Software Engineering Life-Cycle. Hands-on experience in developing Software. Excellent Technical and People Skills. Experience in leading, mentoring, and manging engineering teams.&#xA;Technical Skills Expert: Uptil Java8 Proficient: Java11+, Docker, SQL, NoSQL, Architecture, Microservices Intermediate: GoLang, Python, TypeScript, NodeJs Education Degree University Duration Bachelor of Technology(B.Tech), Information Technology Jawaharlal Nehru Technological University Hyderabad (JNTUH) 2006-2010 MOOCs Platform Courses Credential Coursera Programming with Google Go Specialization Credential I occasionally blog, I started off with blogger in 2013 and this was my first blog https://sairaghavak.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>http://sairaghavak.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://sairaghavak.github.io/about/</guid>
-      <description>My name is Sai Raghava Katepally. I am a Seasoned IT Professional with 15+ years of demonstrated experience in all phases of Software Engineering Life-Cycle. Hands-on experience in developing Software. Excellent Technical and People Skills. Experience in leading, mentoring, and managing engineering teams.
-Technical Skills  Programming Languages: Java(21), Golang, Python, TypeScript Distributed Event Streaming Platforms: Kafka, Azure Event Hub Enterprise Messaging: JMS(Active MQ, Apache Artemis) NoSQL: Cassandra, MongoDB SQL: MsSQL, Postgresql, MySQL, Oracle Containerization &amp;amp; Orchestration: Docker, Kubernetes Cloud: Azure, AWS APM Tools: NewRelic, AppDynamics, Elastic Observability Centralized Log Management Systems: SPLUNK, Kibana, Graylog API Gateways: APIMan, KONG, Gravitee  Please reach out for any interesting and challenging opportunities</description>
+      <description>My name is Sai Raghava Katepally. I am a Seasoned IT Professional with 15+ years of demonstrated experience in all phases of Software Engineering Life-Cycle. Hands-on experience in developing Software. Excellent Technical and People Skills. Experience in leading, mentoring, and managing engineering teams.&#xA;Technical Skills Programming Languages: Java(21), Golang, Python, TypeScript Distributed Event Streaming Platforms: Kafka, Azure Event Hub Enterprise Messaging: JMS(Active MQ, Apache Artemis) NoSQL: Cassandra, MongoDB SQL: MsSQL, Postgresql, MySQL, Oracle Containerization &amp;amp; Orchestration: Docker, Kubernetes Cloud: Azure, AWS APM Tools: NewRelic, AppDynamics, Elastic Observability Centralized Log Management Systems: SPLUNK, Kibana, Graylog API Gateways: APIMan, KONG, Gravitee Please reach out for any interesting and challenging opportunities</description>
     </item>
-    
+    <item>
+      <title>Professional Experience</title>
+      <link>http://sairaghavak.github.io/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sairaghavak.github.io/work/</guid>
+      <description>BlueYonder Title: Staff Software Engineer II Roles: Technical Architect, Engineering Manager, Senior Developer Tech Stack: Java, Confluent Kafka, Spring Boot, Microservices, Azure, Docker, GithubActions Gravitee, MsSQLServer, Elastic, JFrog Domain: Supply Chain Work Location: Hyderabad, India Period: Dec 2024 - Jul 2026 FedEx Title: Software Developer Advisor Roles: Technical Architect, Senior Developer Tech Stack: Java, Spring Boot, Jenkins, GithubActions, JMS, Linux, OnPrem server Deployments Domain: Logistics Work Location: Hyderabad, India Period: Jul 2024 - Oct 2024 Publicis Sapient Title: Software Developer Advisor Roles: Technical Architect, Engineering Manager, Senior Developer Tech Stack: Java, Apache Kafka, JEE, OpenLiberty, KONG, SpringBoot, Kotlin, Lua, Python, Azure, AWS, GreyLog, Docker, Gradle, TestContainers, Bash, TravisCI Domains: Supply Chain, HealthCare, Retail, Travel &amp;amp; Hospitality Work Location: Bengaluru, India Period: Dec 2019 - May 2024 Evergent Title: Lead Engineer Roles: Tech Lead, Senior Developer Tech Stack: Java, SpringBoot, Microservices, APIMan, Apache Maven, Docker, AWS, Apple WebObjects, Payment Gateway Integrations Domains: OTT, Subscription and Billing, CRM Work Location: Hyderabad, India Period: Mar 2018 - Dec 2019 Accenture Title: Application Development Senior Analyst Roles: Senior Developer Tech Stack: Java, JSF, WebLogic Server, Apache ANT, Git, SAP NetWeaver, Angular2, Javascript, JQuery, HTML, CSS Domains: Pharmaceutical, Consumer Goods &amp;amp; Services Work Location: Hyderabad, India Period: Jan 2014 - Feb 2018 Steelwedge Title: Software Engineer Roles: Developer Tech Stack: Java, Struts, Apache ANT, Jython, WebLogic Server, Tortoise SVN Domains: Supply Chain Work Location: Hyderabad, India Period: Aug 2010 - Oct 2013 </description>
+    </item>
   </channel>
 </rss>
